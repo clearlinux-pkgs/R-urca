@@ -4,7 +4,7 @@
 #
 Name     : R-urca
 Version  : 1.3.0
-Release  : 25
+Release  : 26
 URL      : https://cran.r-project.org/src/contrib/urca_1.3-0.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/urca_1.3-0.tar.gz
 Summary  : Unit Root and Cointegration Tests for Time Series Data
